@@ -203,3 +203,5 @@ Use the button in the Quick Start section.
 ---
 
 *Age of Wonders 4 · Updated 2026-11-15 · Shared under the MIT License*
+
+<!-- updated 2026-11-15 -->
